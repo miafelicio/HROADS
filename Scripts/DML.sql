@@ -1,5 +1,5 @@
 set IDENTITY_INSERT Tipo_de_Habilidade ON;
-USE Projeto_RPG;
+USE Projeto_RPG;s
 
 INSERT INTO Tipo_de_Habilidade (nomeTipoHabilidade)
 VALUES ('Ataque'),('Defesa'),('Cura'),('Magia');
